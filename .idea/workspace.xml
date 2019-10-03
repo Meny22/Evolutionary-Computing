@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e8ffd18-0291-4a35-8f87-4f96dcd9f3ab" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/controller_generalist_demo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/controller_specialist_demo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/optimization_coevolution_demo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/optimization_generalist_demo.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/optimization_specialist_demo.py" afterPath="" />
-    </list>
+    <list default="true" id="8e8ffd18-0291-4a35-8f87-4f96dcd9f3ab" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
